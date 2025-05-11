@@ -1,0 +1,47 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uild[Ll]og.*
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Auto-generated files
+*.generated.*
+*.g.*
+
+# Visual Studio cache
+.vs/
+.vscode/
+
+# Rider IDE
+.idea/
+
+# Backup & temp files
+*.bak
+*.tmp
+*.swp
+
+# NuGet packages
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Others
+*.log
+*.DS_Store
+Thumbs.db
+
+# Publish outputs
+*.Publish.xml
+publish/
+
+# Crash dumps
+*.dmp
